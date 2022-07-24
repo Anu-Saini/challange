@@ -2,18 +2,18 @@
 # README.md Project generator  
 
 ## Table of content
-- username(#username) 
-- email(#email) 
-- title(#title) 
-- description(#description) 
-- licence(#licence) 
-- installation(#installation) 
-- tests(#tests) 
-- information(#information) 
-- contributors(#contributors) 
-- confirm(#confirm) 
+- [username] (#username) 
+- [email] (#email) 
+- [title] (#title) 
+- [description] (#description) 
+- [licence] (#licence) 
+- [installation](#installation) 
+- [tests](#tests) 
+- [information](#information) 
+- [contributors](#contributors) 
+- [confirm](#confirm) 
 
-<a name='username'></a>
+   <a name='username'></a>
 ## User name
 test
 ## User email
