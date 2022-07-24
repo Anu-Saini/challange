@@ -13,7 +13,7 @@
 - contributors(#contributors) 
 - confirm(#confirm) 
 
-   <a name='username'></a>
+<a name='username'></a>
 ## User name
 test
 ## User email
