@@ -27,7 +27,9 @@ undefined
   ## To Install the application on your device, please run the below command 
 test
   ## To run testing on the applicaiton please run the below command 
-
+```
+npm install
+```
   ## Points to note before using the application 
 
   ## Important information that users need to be aware off before contributing to code 
