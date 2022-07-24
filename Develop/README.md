@@ -21,7 +21,6 @@ rahatsaini@yahoo.com
 readmeGeenrator
 ## Description of the project
 adhjajdfahdajdhajd
-
 ## Type of licence required for the running the project
 undefined
   ## To Install the application on your device, please run the below command 
